@@ -1,5 +1,5 @@
 # poisonous-mushroom
-Analysis of the UC Irvine (UCI) Mushroom dataset (Mushroom, 1981) to investigate relationships between mushroom attributes and toxicity for predictive model training.
+Analysis of the UC Irvine (UCI) Mushroom dataset (Mushroom, 1981) to investigate relationships between mushroom attributes and toxicity for predictive model training. The report and accompanying Jupyter notebook was submitted on 5 November 2024 as part of a university coursework.
 
 <u>Description</u>\
 This report analyses the UC Irvine (UCI) Mushroom dataset (Mushroom, 1981) to investigate relationships between mushroom attributes and its toxicity. Thereafter, it aims to train supervised and unsupervised models capable of properly identifying poisonous mushrooms based on its attributes, and critically evaluate the effectiveness of these models.
